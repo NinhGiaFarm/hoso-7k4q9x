@@ -1,6 +1,6 @@
 {
-  "name": "Hồ sơ thi công nhà lắp ghép của Hiếu",
-  "short_name": "Hồ sơ thi công",
+  "name": "Hồ sơ xây nhà của nông trại Ninh Gia",
+  "short_name": "Hồ sơ xây nhà",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
